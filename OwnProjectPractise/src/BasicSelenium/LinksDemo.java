@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class LinksDemo {
 
 	public static void main(String[] args) {
-		// This Program is for the Link practise
+		// This Program is for the Link practice
 		
 		String url = "https://www.leafground.com/link.xhtml";
 		String driverPath = "C:\\Users\\HP\\Desktop\\Sarathi Drive\\Automation Projects\\drivers\\chromedriver.exe";
