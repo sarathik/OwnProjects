@@ -55,6 +55,8 @@ public class WorkingWithWindows {
 			}
 			
 		}
+		
+		driver.quit();
 			
 		
 		
