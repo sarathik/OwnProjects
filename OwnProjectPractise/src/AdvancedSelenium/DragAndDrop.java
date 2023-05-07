@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 public class DragAndDrop {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// This is sample practise code
 		
 		String url = "https://www.leafground.com/drag.xhtml";
 		String driverPath = "C:\\Users\\HP\\Desktop\\Sarathi Drive\\Automation Projects\\drivers\\chromedriver.exe";
@@ -26,6 +26,7 @@ public class DragAndDrop {
 		act.build().perform();
 		
 		driver.close();
+		driver.quit();
 		
 
 	}
